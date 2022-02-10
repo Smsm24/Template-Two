@@ -554,7 +554,7 @@ header .container .form i {
 }
 /* Stats Section  */
 .stats {
-  background-image: url(/images/stats.png);
+  background-image: url(../images/stats.png);
   background-size: cover;
   text-align: center;
   padding-top: var(--main-padding);
@@ -754,7 +754,7 @@ header .container .form i {
 .qutation {
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
-  background-image: url(/images/qute3.jpg);
+  background-image: url(../images/qute3.jpg);
   background-size: cover;
   position: relative;
   text-align: center;
@@ -888,7 +888,7 @@ header .container .form i {
 .email {
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   background-size: cover;
   position: relative;
   color: white;
@@ -1044,7 +1044,7 @@ header .container .form i {
 .footer {
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   background-size: cover;
   position: relative;
   color: white;
